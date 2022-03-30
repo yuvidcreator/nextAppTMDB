@@ -29,9 +29,9 @@ function Header() {
           <HeaderItem title="ACCOUNT" Icon={UserIcon}/>
       </div>
       <Image 
-        className='object-contains' src="https://brandslogos.com/wp-content/uploads/images/hulu-logo-black-and-white.png" 
-        width={90} 
-        height={36} 
+        className='object-contains' src="https://www.webinoxmedia.com/static/images/webinoxmedia-logo-light.png" 
+        width={150} 
+        height={54} 
         alt=""
       />
     </header>

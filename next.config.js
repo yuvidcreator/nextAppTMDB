@@ -2,7 +2,7 @@
 
 module.exports = {
   images: {
-    domains: ['brandslogos.com', 'image.tmdb.org'],
+    domains: ['brandslogos.com', 'image.tmdb.org', 'www.webinoxmedia.com'],
   },
 }
 
